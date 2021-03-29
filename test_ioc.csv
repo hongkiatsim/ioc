@@ -1,4 +1,5 @@
 ﻿Type,Value,Description
-Domain,thehackernews.com,Test 1
-Domain,google.com.au,Test 1
-IP,96.45.33.106,Test 2
+domain,thehackernews.com,Test 1
+domain,google.com.au,Test 2
+ip,96.45.33.106,Test 3
+ip,96.45.33.106,Test 4
